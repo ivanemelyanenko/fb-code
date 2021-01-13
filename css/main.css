@@ -11,7 +11,7 @@ font-weight: normal;
 .header {
     background: white;
    }
-.headr {
+.header {
   position: sticky;
 z-index: 1;
 top: 0;
